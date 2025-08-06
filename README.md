@@ -1,4 +1,4 @@
-# AquaSaver 💧 – Clean Water Conservation System
+  # AquaSaver 💧 – Clean Water Conservation System
 
 This project is developed for **Sustainovation Hackathon 2025**. It empowers schools and senior centers to monitor and conserve water through an interactive, education-driven web platform.
 
