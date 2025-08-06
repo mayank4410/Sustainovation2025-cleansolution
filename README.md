@@ -7,9 +7,9 @@ This project is developed for **Sustainovation Hackathon 2025**. It empowers sch
 ## 👨‍👩‍👧‍👦 Team Members
 
 - **Mayank Singh** – Program Coordinator (IIT Guwahati)
-- **Abhinandan Pandey** – Team Leader & UX Developer (DTC, Delhi)
-- **Sourabh Kumar** – UI Developer (IGNOU)
-- **Chirag Gupta** – Frontend Logic & Firebase Integration (CCS University)
+- **Abhinandan Pandey** – Team Leader & Database Integrator & Frontend Support Developer (DTC, Delhi)
+- **Sourabh Kumar** – Frontend Developer (UI Components & Styling) (IGNOU)
+- **Chirag Gupta** – Frontend Support Developer & User Experience (CCS University)
 
 ---
 
