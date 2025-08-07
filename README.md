@@ -46,7 +46,7 @@ To enhance accessibility and transparency, we’ve provided the project document
 - 📑 [Presentation (PDF)] ([./docs/presentation.pdf] (https://drive.google.com/file/d/1EUrPiLWMsARsu2QNgwApb1TCVF3g43E5/view?usp=drivesdk)  
   A slide-based summary of our solution, UI design, and architecture.
 
-- 📝 [Write-up Document (PDF)] ([./docs/writeup.pdf](https://drive.google.com/file/d/1AY13Ronwlapn7DyozcA3zk7Q6v6fx7VZ/view?usp=drivesdk)  
+- 📝 [Write-up Document (PDF)] ([./docs/writeup.pdf] (https://drive.google.com/file/d/1AY13Ronwlapn7DyozcA3zk7Q6v6fx7VZ/view?usp=drivesdk)  
   Full explanation of our approach, modules, tech stack, and future vision.
 
 
